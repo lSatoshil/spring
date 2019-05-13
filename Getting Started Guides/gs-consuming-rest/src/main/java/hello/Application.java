@@ -31,7 +31,7 @@ public class Application {
 
     @Bean
     public CommandLineRunner run(RestTemplate restTemplate) throws Exception{
-        //RestTemplate 支持 HTTP 类型的请求，如 get put post delete 
+        //RestTemplate 支持 HTTP 类型的请求，如 get put post delete
         return args -> {
             Quote quote = restTemplate.getForObject("https://gturnquist-quoters.cfapps.io/api/random", Quote.class);
             logger.info(quote.toString());
