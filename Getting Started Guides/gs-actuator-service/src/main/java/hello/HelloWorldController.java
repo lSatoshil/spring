@@ -15,6 +15,7 @@ public class HelloWorldController {
 
     @GetMapping("/hello-world")
     @ResponseBody
+    //@ResponseBody 是返回值以 JSON 格式放在 body 中
     public Greeting sayHello(@RequestParam(name = "name",required = false,defaultValue = "Stranger") String name) {
         return new Greeting(counter.incrementAndGet(),String.format(template,name));
     }
