@@ -1,9 +1,9 @@
 spring:
   application:
-    name: eureka-consumer
+    name: eureka-consumer-ribbon
 
 server:
-  port: 2101
+  port: 3101
 
 eureka:
   client:
