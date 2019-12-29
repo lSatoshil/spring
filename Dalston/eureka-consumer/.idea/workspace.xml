@@ -2,20 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f41f4428-2d3f-4718-b9c3-66343313c0b6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../consul-client/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../eureka-client/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../eureka-consumer-ribbon/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../consul-client/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../consul-client/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../eureka-consumer-feign/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../eureka-consumer-feign/src/main/java/com/satoshi/spring/cloud/eureka/consumer/controller/DcController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../eureka-consumer-feign/src/main/java/com/satoshi/spring/cloud/eureka/consumer/interfaces/DcInterface.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../eureka-client/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../eureka-client/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../eureka-client/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../eureka-client/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../eureka-consumer-ribbon/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../eureka-consumer-ribbon/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/satoshi/spring/cloud/eureka/consumer/controller/ConsumerController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/satoshi/spring/cloud/eureka/consumer/controller/ConsumerController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../eureka-server/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../eureka-server/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../eureka-server/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../eureka-server/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../eureka-server/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../eureka-server/target/classes/application.properties" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -174,7 +169,7 @@
       <workItem from="1576587906900" duration="1760000" />
       <workItem from="1577504592939" duration="83000" />
       <workItem from="1577512679675" duration="121000" />
-      <workItem from="1577513095721" duration="4842000" />
+      <workItem from="1577513095721" duration="5635000" />
     </task>
     <servers />
   </component>

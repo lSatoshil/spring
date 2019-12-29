@@ -2,20 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7395bc37-1569-4282-9ad9-d3b477d612db" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../consul-client/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../eureka-consumer-ribbon/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../eureka-consumer/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../eureka-consumer/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../consul-client/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../consul-client/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../eureka-consumer-feign/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../eureka-consumer-feign/src/main/java/com/satoshi/spring/cloud/eureka/consumer/controller/DcController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../eureka-consumer-feign/src/main/java/com/satoshi/spring/cloud/eureka/consumer/interfaces/DcInterface.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../eureka-consumer-ribbon/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../eureka-consumer-ribbon/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../eureka-consumer/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../eureka-consumer/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../eureka-consumer/src/main/java/com/satoshi/spring/cloud/eureka/consumer/controller/ConsumerController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../eureka-consumer/src/main/java/com/satoshi/spring/cloud/eureka/consumer/controller/ConsumerController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../eureka-consumer/src/main/resources/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../eureka-consumer/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../eureka-consumer/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../eureka-server/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../eureka-server/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../eureka-server/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../eureka-server/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../eureka-server/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../eureka-server/target/classes/application.properties" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -25,6 +20,20 @@
   </component>
   <component name="CodeStyleSettingsInfer">
     <option name="done" value="true" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -105,7 +114,7 @@
       <updated>1576584156675</updated>
       <workItem from="1576584161571" duration="2096000" />
       <workItem from="1577504592245" duration="73000" />
-      <workItem from="1577538510347" duration="2722000" />
+      <workItem from="1577538510347" duration="5026000" />
     </task>
     <servers />
   </component>
