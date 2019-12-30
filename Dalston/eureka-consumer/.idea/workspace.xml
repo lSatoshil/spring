@@ -2,15 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f41f4428-2d3f-4718-b9c3-66343313c0b6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../eureka-consumer-feign/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../eureka-consumer-feign/src/main/java/com/satoshi/spring/cloud/eureka/consumer/controller/DcController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../eureka-consumer-feign/src/main/java/com/satoshi/spring/cloud/eureka/consumer/interfaces/DcInterface.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../eureka-client/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../eureka-client/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../eureka-client/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../eureka-client/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../eureka-consumer-ribbon/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../eureka-consumer-ribbon/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../eureka-server/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../eureka-server/pom.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />

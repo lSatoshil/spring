@@ -13,6 +13,11 @@ public class DcController {
 
     @GetMapping("/dc")
     public String sc(){
+        try {
+            Thread.sleep(5000L);
+        } catch (InterruptedException e) {
+            e.printStackTrace();
+        }
         String services = "services "+ discoveryClient.getServices();
         System.out.println(services);
         return services;
