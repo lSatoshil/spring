@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f41f4428-2d3f-4718-b9c3-66343313c0b6" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../api-gateway/src/main/java/com/satoshi/springcloud/gateway/GatewayApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../api-gateway/src/main/java/com/satoshi/springcloud/gateway/GatewayApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../eureka-client/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../eureka-client/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="f41f4428-2d3f-4718-b9c3-66343313c0b6" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -164,7 +161,7 @@
       <workItem from="1577504592939" duration="83000" />
       <workItem from="1577512679675" duration="121000" />
       <workItem from="1577513095721" duration="5635000" />
-      <workItem from="1577790353966" duration="596000" />
+      <workItem from="1577790353966" duration="2277000" />
     </task>
     <servers />
   </component>

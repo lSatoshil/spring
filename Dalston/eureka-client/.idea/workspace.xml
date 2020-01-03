@@ -2,13 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7395bc37-1569-4282-9ad9-d3b477d612db" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../api-gateway/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../api-gateway/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../api-gateway/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../api-gateway/api-gateway.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../api-gateway/api-gateway.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../api-gateway/src/main/java/com/satoshi/springcloud/gateway/GatewayApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../api-gateway/src/main/java/com/satoshi/springcloud/gateway/GatewayApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../api-gateway/src/main/resources/application.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../api-gateway/src/main/resources/application.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/satoshi/springcloud/eureka/client/controller/DcController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/satoshi/springcloud/eureka/client/controller/DcController.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../eureka-consumer/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../eureka-consumer/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -113,7 +106,7 @@
       <updated>1576584156675</updated>
       <workItem from="1576584161571" duration="2096000" />
       <workItem from="1577504592245" duration="73000" />
-      <workItem from="1577538510347" duration="9574000" />
+      <workItem from="1577538510347" duration="10755000" />
     </task>
     <servers />
   </component>
